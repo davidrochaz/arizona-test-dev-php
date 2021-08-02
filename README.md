@@ -6,9 +6,9 @@ GitLab: david.rochaz
 
 ### Objetivo
 
-* Uma aplicação que permita o usuário ver uma lista/tabela de países
-* A lista/tabela de países deve permitir o usuário ordenar por país ou sigla
-* O usuário poderá extrair a lista de países + sigla para um arquivo CSV
+* Uma aplicação que permita o usuário ver uma lista/tabela de países + siglas dos países
+* A lista/tabela de países + siglas dos países deve permitir o usuário ordenar pelo nome do país ou sigla
+* O usuário poderá extrair a lista de países + siglas dos países para um arquivo CSV
 
 
 ### Dados
