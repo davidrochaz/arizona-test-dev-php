@@ -13,7 +13,7 @@ GitLab: david.rochaz
 
 ### Dados
 
-* Somente devem ser importados os nomes dos países e suas siglas. Utilizar o arquivo [country.txt](./country.txt) contido no repositório.
+* Somente devem ser importados os nomes dos países e suas siglas. Utilizar o arquivo [country.txt](https://raw.githubusercontent.com/davidrochaz/arizona-test-dev-php/main/country.txt) contido no repositório.
 * Os dados devem ser importados utilizando migrations
 * As tabelas do banco de dados devem ser criadas utilizando migrations
 
