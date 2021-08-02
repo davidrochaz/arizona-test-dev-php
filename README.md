@@ -13,7 +13,7 @@ GitLab: david.rochaz
 
 ### Dados
 
-* Somente devem ser importados os nomes dos países e suas siglas. Utilizar os dados do link http://www.umass.edu/microbio/rasmol/country-.txt .
+* Somente devem ser importados os nomes dos países e suas siglas. Utilizar o arquivo [country.txt](./country.txt) contido no repositório.
 * Os dados devem ser importados utilizando migrations
 * As tabelas do banco de dados devem ser criadas utilizando migrations
 
